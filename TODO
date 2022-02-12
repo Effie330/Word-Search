@@ -1,0 +1,8 @@
+-create possible words
+-select topic
+-select difficulty (word length and board size)
+-main menu
+-highlight words
+-VFX and SFX when get one correct
+-play agaain when win
+-show score
